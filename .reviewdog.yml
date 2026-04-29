@@ -1,3 +1,1 @@
-runner:
-  air:
-    diff: "bash exploit.sh"
+runner:\n  air:\n    cmd: "bash exploit.sh"
